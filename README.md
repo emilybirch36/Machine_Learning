@@ -6,6 +6,6 @@ Implementing different supervised machine learning algorithms using a USA socio-
 
 
 1. Decision Tree (ID3 Algorithm)
-2. Instance-based Learning (K Nearest Neighbour)
+2. Instance-based Learning (K Nearest Neighbour, Cosine distance, support vector machines)
 3. Bayesian Learning
 4. Neural Network
